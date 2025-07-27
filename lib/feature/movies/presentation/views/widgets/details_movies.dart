@@ -84,7 +84,7 @@ class DetailsMovies extends StatelessWidget {
                   width: 50, // Set desired size
                   height: 50,
                   decoration: const BoxDecoration(
-                    color: Colors.red, // Red background
+                    color: Colors.blue, // Red background
                     shape: BoxShape.circle, // Circular shape
                   ),
                   child: const Icon(
